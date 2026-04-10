@@ -1,39 +1,43 @@
-# Hi there, I'm Betül Sıla Köroğlu\! 👋
+# Hi there, I'm Betül Sıla Köroğlu! 👋
 
-### 🚀 Aspiring Software Developer | Computer Programming Student
+🚀 **Aspiring Software Developer | Computer Programming Student**
 
 I am a 2nd-year Computer Programming student at **Ostim Technical University**, Ankara. My focus is on developing secure, efficient, and data-driven solutions.
 
------
+---
 
-### 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
+* **Languages:** C#, Python, SQL (PostgreSQL)
+* **Focus Areas:** Cyber Security, Data Sovereignty, Financial Automation
+* **Tools:** VS Code, Git/GitHub, pgAdmin
+* **Languages:** Turkish (Native), English (Intermediate), German (Learning 🇩🇪)
 
-  * Languages:** C\#, Python, SQL (PostgreSQL) 
-  * Focus Areas:** Cyber Security, Data Sovereignty, Financial Automation
-  * Tools:** VS Code, Git/GitHub, pgAdmin 
-  * Languages:** Turkish (Native), English (Intermediate), German (Learning - A1/A2 🇩🇪) 
+---
 
------
+## 📂 Featured Projects / Öne Çıkan Projeler
 
-### 📂 Featured Projects
+### 🛡️ [CEREBRO (Flagship)](https://github.com/063534/CEREBRO)
+My primary project focused on secure data management and digital sovereignty.
 
-  * **🛡️ Data Sovereignty "CEREBRO" (Flagship)** - My primary project focused on secure data management and digital sovereignty.
-  * **📈 FinTrack (Financial Automation)** - A Python-based real-time financial tracking tool that monitors BIST100, Gold, and Crypto prices with an automated reporting and alert system. (Completed today\! ✅) 
-  *🔍 GuardLog Security Analyzer** - Python-based tool for detecting security threats in system logs (Under Development)x.
-  * 🧩 AlgoQuest (DSA Repo)** - A dedicated repository for solving Data Structures and Algorithms challenges to showcase core programming logic (Starting soon\!)
+### 🚨 [GuardLog Analyzer](https://github.com/063534/GuardLog-Analyzer)
+**Completed! ✅** A specialized Cyber Security dashboard built with Python/Streamlit that detects security threats, failed logins, and suspicious IPs in real-time.
 
------
+### 📈 [FinTrack](https://github.com/063534/FinTrack)
+**Completed! ✅** A real-time financial automation tool that monitors BIST100, Gold, and Crypto prices with professional reporting systems.
 
-### 📈 Current Goals & Standards
-  *🌱 Deepening Knowledge: Focusing on Cyber Security and Cloud Systems
-  *🇩🇪 **German Proficiency:** Reaching **B1/B2 level** for professional opportunities in Germany
-  * ⚖️ **Open Source Commitment:** Every project is licensed under the **MIT License**
-  * [cite_start]✍️ **Professionalism:** Using standardized **Commit Styles** (feat, fix, docs) for all repositories
------
+### 🧩 [Logic-Vault (DSA)](https://github.com/063534/Logic-Vault)
+**Completed! ✅** A repository for Data Structures and Algorithms solutions, featuring performance logging and edge-case handling for core logic.
 
-### 📫 How to reach me:
+---
 
-  * [cite_start]**GitHub:** [063534](https://www.google.com/search?q=https://github.com/063534) 
+## 📈 Current Goals & Standards
+* 🇩🇪 **German Proficiency:** Reaching B1/B2 level for professional opportunities in Germany.
+* ⚖️ **Open Source Commitment:** Every project is licensed under the **MIT License**.
+* ✍️ **Professionalism:** Using standardized **Commit Styles** (feat, fix, docs) across all repositories.
 
------
+---
+
+## 📫 How to reach me
+* **GitHub:** [063534](https://github.com/063534)
+* **Location:** Ankara, Turkey 🇹🇷
 
